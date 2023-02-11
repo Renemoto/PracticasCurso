@@ -1,4 +1,4 @@
-# Practicas Git para el master de p`rogramacion
+# Practicas Git para el master de programacion
 
 Aquí vamos a ir poniendo los archivos
 
